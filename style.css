@@ -5,9 +5,8 @@
 }
 video {
   opacity: 0.1;
-  position: absolute;
-  display: flex;
-  height: 1000px;
+  position: fixed;
+  height: 100vh;
 }
 body {
   background-image: url("img/imagem_de_fundo.jpg");
@@ -71,7 +70,7 @@ h1 {
 
 @media (max-width: 500px) {
   h1 {
-    font-size: 45px;
+    font-size: 30px;
   }
 
   .tempo {
@@ -84,6 +83,51 @@ h1 {
   }
 
   .tempo small {
-    font-size: 10px;
+    font-size: 8px;
+  }
+}
+
+@media (max-width: 360px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  .tempo {
+    margin: 5px;
+  }
+
+  .tempo h2 {
+    font-size: 12px;
+    margin: 0;
+  }
+
+  .tempo small {
+    font-size: 8px;
+  }
+
+  .spotify iframe {
+    width: 37vh;
+  }
+}
+@media (max-width: 280px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  .tempo {
+    margin: 5px;
+  }
+
+  .tempo h2 {
+    font-size: 12px;
+    margin: 0;
+  }
+
+  .tempo small {
+    font-size: 8px;
+  }
+
+  .spotify iframe {
+    width: 31vh;
   }
 }

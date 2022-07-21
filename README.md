@@ -5,3 +5,5 @@ https://www.alura.com.br/artigos/z-index-utilizar-essa-propriedade-css?gclid=Cj0
 https://www.w3schools.com/css/css_image_transparency.asp
 
 https://www.w3schools.com/html/html5_audio.asp
+
+https://artists.spotify.com/help/article/embedded-players-follow-buttons

@@ -21,8 +21,6 @@ function atualizarContagem() {
   horas.innerHTML = h < 10 ? "0" + h : h;
   minutos.innerHTML = m < 10 ? "0" + m : m;
   segundos.innerHTML = s < 10 ? "0" + s : s;
-  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
-  // Explicações sobre a interrogação
 }
 
 // Atualização a cada milisegundo.

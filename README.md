@@ -9,3 +9,5 @@ https://www.w3schools.com/html/html5_audio.asp
 https://artists.spotify.com/help/article/embedded-players-follow-buttons
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
+
+https://github.com/Rapsssito/github-profile-badge

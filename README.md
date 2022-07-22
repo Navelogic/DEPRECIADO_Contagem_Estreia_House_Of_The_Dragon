@@ -10,7 +10,7 @@ Para tratar a ordem dentro do CSS, eu li:(https://www.alura.com.br/artigos/z-ind
 No lugar do widget do Spotify eu estava tentando usar músicas tocadas dentro da page. Mas, como eu descobri aqui: (https://www.w3schools.com/html/html5_audio.asp) que navegadores baseados no Chromium não permitem “autoplay”, então deixei essa ideia de lado e fui pesquisar sobre “embedded”: (https://artists.spotify.com/help/article/embedded-players-follow-buttons)
 
 
-Pensei então fazer um “embedded” que fosse para o meu perfil do Github, encontrei isso: (https://artists.spotify.com/help/article/embedded-players-follow-buttons) , note que isso não é algo oficial.
+Pensei então fazer um “embedded” que fosse para o meu perfil do Github, encontrei isso: (https://github.com/Rapsssito/github-profile-badge) , note que isso não é algo oficial.
 
 
 Agora, especificamente no arquivo js, pesquisei sobre a declaração de if apresentada no curso. Eis o que eu encontrei para estudar: (https://artists.spotify.com/help/article/embedded-players-follow-buttons)

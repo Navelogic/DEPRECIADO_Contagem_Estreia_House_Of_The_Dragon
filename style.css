@@ -3,11 +3,6 @@
 * {
   box-sizing: border-box;
 }
-video {
-  opacity: 0.1;
-  position: fixed;
-  height: 100vh;
-}
 body {
   background-image: url("img/imagem_de_fundo.jpg");
   background-repeat: no-repeat;

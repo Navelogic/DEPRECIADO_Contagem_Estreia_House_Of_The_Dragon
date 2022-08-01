@@ -14,3 +14,6 @@ Pensei então fazer um “embedded” que fosse para o meu perfil do Github, enc
 
 
 Agora, especificamente no arquivo js, pesquisei sobre a declaração de if apresentada no curso. Eis o que eu encontrei para estudar: (https://artists.spotify.com/help/article/embedded-players-follow-buttons)
+<hr>
+
+<h2>Após minha troca de tela, notei que, por conta da resolução do vídeo, nem todos os dispositivos o mostrariam com uma qualidade aceitável. Por conta disso, ele foi removido.</h2>

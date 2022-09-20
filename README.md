@@ -1,3 +1,6 @@
+PROJETO DEPRECIADO!
+
+
 Projeto de estudo bastante pessoal, eu gosto muito de GOT e achei que seria uma boa forma de tentar fazer coisas novas. De base para meu estudo, usei o curso: (https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
 
 
